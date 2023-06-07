@@ -1,2 +1,2 @@
-# EVENTIVE
-event managment website(Web Development)
+# Eventive
+event management website
